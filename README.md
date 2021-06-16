@@ -1,8 +1,8 @@
 ### Bikesharing from NYC to gauge Bikesharing info for Des Moines. 
 
 # Overview
-  The purpose of this analysis is to use data from New Yorks widely successful CitiBike sharing program and seeing what can be used from it to implement a similar system
-  for Des Moines Iowa. To do this, we used Tableau to create visualizations of the data 
+  The purpose of this analysis is to use data from New Yorks widely successful CitiBike sharing program and seeing what can be used from it to implement a similar 
+  system for Des Moines Iowa. To do this, we used Tableau to create visualizations of the data. [Tableau Dashboard](https://public.tableau.com/app/profile/tessa.c5417/viz/Citibike_16238082679230/PreliminarylookintoBikesharingdata)
 
  #   Results:
  ![Checkdisout](https://github.com/TCJester10/Bikesharing/blob/main/Images/Checkouts.png)
